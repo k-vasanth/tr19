@@ -1,0 +1,18 @@
+h1 {
+    color: aqua;
+    background-color: hsl(50, 88%, 51%);
+}
+p:hover {
+    color: red;
+}
+li.crack{
+    background-color: green;
+    
+}
+header h1{
+    color: rgb(114, 60, 74);
+    background-color: rgb(162, 57, 162);
+}
+p {
+    background-color: gold;
+}
